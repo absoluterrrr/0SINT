@@ -26,3 +26,5 @@
 git clone https://github.com/absoluterrrr/0SINT.git
 cd 0SINT
 pip install -r requirements.txt
+Использование:
+  python main.py [опции]
