@@ -1,0 +1,8 @@
+python osint_pro [команда] [опции]
+
+# Примеры:
+python osint_pro domain example.com --ports 22,80,443 --scan
+python osint_pro ip 8.8.8.8
+python osint_pro email test@example.com
+python osint_pro person "John Doe"
+python osint_pro person username
