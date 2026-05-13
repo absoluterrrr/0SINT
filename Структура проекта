@@ -1,0 +1,11 @@
+0SINT/
+├── src/
+│   ├── __init__.py
+│   ├── main.py
+│   └── modules/
+├── tests/
+├── docs/
+├── README.md
+├── requirements.txt
+├── LICENSE
+└── .gitignore
