@@ -4,6 +4,7 @@ import socket
 import dns.resolver
 import re
 import logging
+import json
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from urllib.parse import urlparse
 
