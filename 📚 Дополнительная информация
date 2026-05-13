@@ -1,0 +1,13 @@
+Функции core.py:
+
+    crtsh_lookup() - поиск сертификатов
+    dns_lookup() - DNS запросы
+    port_scan() - сканирование портов
+    ip_geo() - геолокация IP
+    probe_username() - проверка ников на платформах
+    person_search_by_name() - поиск по ФИ
+    gather_domain() - полный анализ домена
+    gather_ip() - полный анализ IP
+    gather_email() - анализ email
+    gather_person() - анализ персоны
+
