@@ -513,10 +513,10 @@ def phone_lookup(phone):
             f"https://www.truecaller.com/search",
 
             "Sync.me":
-            "https://sync.me/",
+            "https://sync.me/{phone}",
 
             "Eyecon":
-            "https://eyecon-app.com/"
+            "https://eyecon-app.com/{phone}"
         }
 
         for name, url in accounts.items():
