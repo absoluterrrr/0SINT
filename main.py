@@ -46,7 +46,7 @@ def banner():
 
 {CYAN}            OSINT TOOL v4
 {WHITE}━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-{GREEN} Creator : Niekocham
+{GREEN} Creator : artist33
 {GREEN} Python  : 3.x
 {GREEN} Status  : ONLINE
 {WHITE}━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
