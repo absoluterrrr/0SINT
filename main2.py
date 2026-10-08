@@ -146,7 +146,7 @@ def banner():
  ╚═════╝ ╚══════╝╚═╝╚═╝  ╚═══╝   ╚═╝
 {CYAN}             OSINT TOOL v5
 {WHITE}━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-{GREEN} Creator : Niekocham
+{GREEN} Creator : art1st33
 {GREEN} Python  : 3.x
 {GREEN} Mode    : PASSIVE OSINT
 {WHITE}━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
