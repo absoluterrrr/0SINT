@@ -116,12 +116,6 @@ def check_username(username):
         "OK.ru":
             f"https://ok.ru/{username}",
 
-        "Quora":
-            f"https://www.quora.com/profile/{username}",
-
-        "Medium":
-            f"https://medium.com/@{username}",
-
         "Patreon":
             f"https://www.patreon.com/{username}",
 
@@ -141,9 +135,6 @@ def check_username(username):
         "WhatsApp":
             f"https://wa.me/{username}",
 
-        "Skype":
-            f"https://join.skype.com/invite/{username}",
-
         "Discord":
             f"https://discord.com/users/{username}",
 
@@ -156,9 +147,6 @@ def check_username(username):
 
         "GitHub":
             f"https://github.com/{username}",
-
-        "GitLab":
-            f"https://gitlab.com/{username}",
 
         "Bitbucket":
             f"https://bitbucket.org/{username}",
@@ -223,12 +211,6 @@ def check_username(username):
         "Roblox":
             f"https://www.roblox.com/user.aspx?username={username}",
 
-        "Minecraft":
-            f"https://namemc.com/profile/{username}",
-
-        "Fortnite":
-            f"https://fortnitetracker.com/profile/all/{username}",
-
         "Xbox":
             f"https://account.xbox.com/en-us/profile?gamertag={username}",
 
@@ -241,12 +223,6 @@ def check_username(username):
         # =========================================
         # ФОРУМЫ / COMMUNITY
         # =========================================
-
-        "Reddit":
-            f"https://www.reddit.com/user/{username}",
-
-        "4PDA":
-            f"https://4pda.to/forum/index.php?showuser={username}",
 
         "Kaggle":
             f"https://www.kaggle.com/{username}",
@@ -300,9 +276,6 @@ def check_username(username):
         "BuyMeACoffee":
             f"https://buymeacoffee.com/{username}",
 
-        "Ko-fi":
-            f"https://ko-fi.com/{username}",
-
         "PornHub":
             f"https://www.pornhub.com/users/{username}",
 
@@ -333,9 +306,6 @@ def check_username(username):
         "Goodreads":
             f"https://www.goodreads.com/{username}",
 
-        "Unsplash":
-            f"https://unsplash.com/@{username}",
-
         "500px":
             f"https://500px.com/p/{username}",
 
@@ -343,10 +313,7 @@ def check_username(username):
             f"https://www.freelancer.com/u/{username}",
 
         "Fiverr":
-            f"https://www.fiverr.com/{username}",
-
-        "Upwork":
-            f"https://www.upwork.com/freelancers/{username}",
+            f"https://www.fiverr.com/{username}"
     }
 
     headers = {
