@@ -104,9 +104,6 @@ def check_username(username):
         "Pinterest":
             f"https://www.pinterest.com/{username}/",
 
-        "LinkedIn":
-            f"https://www.linkedin.com/in/{username}/",
-
         "Tumblr":
             f"https://{username}.tumblr.com",
 
@@ -154,14 +151,8 @@ def check_username(username):
         "Replit":
             f"https://replit.com/@{username}",
 
-        "CodePen":
-            f"https://codepen.io/{username}",
-
         "HackerRank":
             f"https://www.hackerrank.com/{username}",
-
-        "LeetCode":
-            f"https://leetcode.com/{username}/",
 
         # =========================================
         # ВИДЕО / СТРИМЫ
@@ -214,9 +205,6 @@ def check_username(username):
         "Xbox":
             f"https://account.xbox.com/en-us/profile?gamertag={username}",
 
-        "PSN":
-            f"https://psnprofiles.com/{username}",
-
         "Chess":
             f"https://www.chess.com/member/{username}",
 
@@ -255,12 +243,6 @@ def check_username(username):
         "Archive":
             f"https://archive.org/details/@{username}",
 
-        "ProductHunt":
-            f"https://www.producthunt.com/@{username}",
-
-        "Tripadvisor":
-            f"https://www.tripadvisor.com/members/{username}",
-
         "DockerHub":
             f"https://hub.docker.com/u/{username}",
 
@@ -291,17 +273,11 @@ def check_username(username):
         "TryHackMe":
             f"https://tryhackme.com/p/{username}",
 
-        "NexusMods":
-            f"https://next.nexusmods.com/profile/{username}",
-
         "AniList":
             f"https://anilist.co/user/{username}",
 
         "MyAnimeList":
             f"https://myanimelist.net/profile/{username}",
-
-        "Letterboxd":
-            f"https://letterboxd.com/{username}",
 
         "Goodreads":
             f"https://www.goodreads.com/{username}",
